@@ -1,0 +1,12 @@
+DuckDuckGo's characteristics:
+- Privacy-friendly, and thus doesn't store user's information
+- Because of this, it can sometimes produce generic search results
+
+Google Search's characteristics:
+- Because of targeted advertising and tracking, it can produce amazingly accurate search results.
+- This can be based on your location, your previous history, etc.
+
+We observe that the the average percent overlap is 22.7%. This translates to 23.1% similarity between the search results of Google and DuckDuckGo. Since the overlap is small, we observe that Google and DuckDuckGo uses different algorithms internally for the exact search query and thus the search results are also thus different.
+
+Along with that, the average Spearman coefficient for the 100 queries was -5.64. Having a negative spearman coefficient shows negative correlation i.e., the search results of the two engines are inconsistent. 
+
